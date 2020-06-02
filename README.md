@@ -12,15 +12,15 @@
 ### 技术能力
 
 1. 熟练掌握并运用 react 框架,并了解其核心源码,熟练使用 redux,react-router,antd 等相关组件,目前主要使
-   用 hooks.
-2. 熟练使用微信小程序原生框架以及 taro 框架进行小程序端开发
-3. 掌握 ES6 等最新的 ECMA 规范,并运用到实际项目开发中
-4. 熟悉前端自动化和工程化，可使用 webpack 搭建 react,vue 等项目
-5. 熟悉 node 后端开发 API, express,koa,egg 等框架
-6. 熟悉 mysql,mongoDB 数据库,配合 node 实现数据库增删改查
-7. 熟练使用 react native 及相关组件进行 App 开发,了解 rn 相关的 ios,android 环境配置,打包,软件发布等
+   用 hooks
+1. 掌握 ES6 等最新的 ECMA 规范,并运用到实际项目开发中
+1. 熟悉前端自动化和工程化，可使用 webpack 搭建 react,vue 等项目
+1. 熟练使用微信小程序原生框架以及 taro 框架进行小程序端开发
+1. 熟练使用 node 进行后端 API 开发, 熟悉 express,koa,egg 等框架,熟悉 koa 源码
+1. 熟悉 mysql,mongoDB 数据库,配合 node 实现数据库增删改查
+1. 熟练使用 react native 及相关组件进行 App 开发,了解 rn 相关的 ios,android 环境配置,打包,软件发布等
    .
-8. 熟悉 dart 语言，熟悉 flutter 跨平台框架，并使用其构建过一些 App、web 端应用.
+1. 了解 flutter 跨平台框架，并使用其构建过一些 App、web 端应用.
 
 ### 工作经历
 
